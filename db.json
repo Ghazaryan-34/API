@@ -5,7 +5,7 @@
     "text": "text1",
     "numeric": "123456789",
     "INvalid_numeric": "123abc",
-    "phone_1": "+1(906) 469-2590",
+    "phone_1": "1(906) 469-2590",
     "phone_2": "(906) 469-2590",
     "phone_3": "9064692590",
     "INvalid_phone_1": "506469259",
