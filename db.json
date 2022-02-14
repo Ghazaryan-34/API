@@ -131,7 +131,7 @@
     "INvalid_price_4": "30.00EUR"
   },
   {
-     "_id": "500.15",
+     "_id": "$500.15",
     "text": "text6",
     "numeric": "34554398774",
     "INvalid_numeric": "abc456b002",
