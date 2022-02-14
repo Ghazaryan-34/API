@@ -83,7 +83,7 @@
     "text": "text4",
     "numeric": "345000",
     "INvalid_numeric": "abc456zxc",
-    "phone_1": "+1 (606) 469-2590",
+    "phone_1": "+1(606) 469-2590",
     "phone_2": "(606) 469-2590",
     "phone_3": "6064692590",
     "INvalid_phone_1": "506469259",
