@@ -105,7 +105,7 @@
     "INvalid_price_4": "30.00EUR"
   },
   {
-    "_id": "770201225",
+    "_id": "77020-1225",
     "text": "text5",
     "numeric": "345000",
     "INvalid_numeric": "abc456zxc",
@@ -126,7 +126,7 @@
     "valid_price_2": "79,256",
     "valid_price_3": "20000",
     "INvalid_price_1": "202$",
-    "INvalid_price_2": "30..02",
+    "INvalid_price_2": "30...02",
     "INvalid_price_3": "30.00 AMD",
     "INvalid_price_4": "30.00EUR"
   },
