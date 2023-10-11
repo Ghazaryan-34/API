@@ -1,5 +1,5 @@
-{
-data:[
+[
+  {
   {
     "_id": "_text",
     "text": "text1",
@@ -189,7 +189,7 @@ data:[
     "INvalid_price_4": "30.00EUR",
     "bool": true
   },
-   {
+  {
     "_id": "1306 Avenue K, South Houston, TX 77587, USA",
     "text": "1402 Avenue K, South Houston, TX 77587, USA",
     "numeric": "345000",
@@ -243,5 +243,5 @@ data:[
     "INvalid_price_4": "10.000€",
     "bool": true
   }
-]
 }
+]
