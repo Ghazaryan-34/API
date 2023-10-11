@@ -24,7 +24,8 @@
     "INvalid_price_1": "10$",
     "INvalid_price_2": "10..02",
     "INvalid_price_3": "10.000 AMD",
-    "INvalid_price_4": "10.000€"
+    "INvalid_price_4": "10.000€",
+    "bool": "true"
   },
   {
     "_id": "100",
@@ -50,7 +51,8 @@
     "INvalid_price_1": "101$",
     "INvalid_price_2": "10...02",
     "INvalid_price_3": "10.00 AMD",
-    "INvalid_price_4": "10.00EUR"
+    "INvalid_price_4": "10.00EUR",
+    "bool": "false"
   },
   {
      "_id": "hr.ghazaryan@gmail.com",
@@ -76,7 +78,8 @@
     "INvalid_price_1": "102$",
     "INvalid_price_2": "20..02",
     "INvalid_price_3": "20.00 AMD",
-    "INvalid_price_4": "20.00EUR"
+    "INvalid_price_4": "20.00EUR",
+    "bool": "true"
   },
   {
      "_id": "(806) 469-2590",
@@ -102,7 +105,8 @@
     "INvalid_price_1": "202$",
     "INvalid_price_2": "30..02",
     "INvalid_price_3": "30.00 AMD",
-    "INvalid_price_4": "30.00EUR"
+    "INvalid_price_4": "30.00EUR",
+    "bool": "false"
   },
   {
     "_id": "77020-1225",
@@ -128,7 +132,8 @@
     "INvalid_price_1": "202$",
     "INvalid_price_2": "30...02",
     "INvalid_price_3": "30.00 AMD",
-    "INvalid_price_4": "30.00EUR"
+    "INvalid_price_4": "30.00EUR",
+    "bool": "true"
   },
   {
      "_id": "$ 500.15",
@@ -154,7 +159,8 @@
     "INvalid_price_1": "202$",
     "INvalid_price_2": "30..02",
     "INvalid_price_3": "30.00 AMD",
-    "INvalid_price_4": "30.00EUR"
+    "INvalid_price_4": "30.00EUR",
+    "bool": "false"
   },
   {
     "_id": "232 E 33rd St, Tucson, AZ 85713, USA",
@@ -180,7 +186,8 @@
     "INvalid_price_1": "202$",
     "INvalid_price_2": "30...02",
     "INvalid_price_3": "30.00 AMD",
-    "INvalid_price_4": "30.00EUR"
+    "INvalid_price_4": "30.00EUR",
+    "bool": "true"
   },
    {
     "_id": "1306 Avenue K, South Houston, TX 77587, USA",
@@ -206,7 +213,8 @@
     "INvalid_price_1": "202$",
     "INvalid_price_2": "30...02",
     "INvalid_price_3": "30.00 AMD",
-    "INvalid_price_4": "30.00EUR"
+    "INvalid_price_4": "30.00EUR",
+     "bool": "false"
   },
   {
     "_id": "_text,100",
@@ -232,7 +240,8 @@
     "INvalid_price_1": "10$",
     "INvalid_price_2": "10..02",
     "INvalid_price_3": "10.000 AMD",
-    "INvalid_price_4": "10.000€"
+    "INvalid_price_4": "10.000€",
+    "bool": "true"
   }
 ]
 }
